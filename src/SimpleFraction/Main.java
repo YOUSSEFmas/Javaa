@@ -6,6 +6,7 @@ public class Main {
 		System.out.println(f.toString());
 
 		System.out.println(f.toString());
+		System.out.println(f.toString());System.out.println(f.toString());System.out.println(f.toString());System.out.println(f.toString());
 	}
 
 }
