@@ -2,7 +2,8 @@ package SimpleFraction;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("HELLO WORLD");
+		Fraction f= new Fraction(5, 1);
+		System.out.println(f.toString());
 	}
 
 }
